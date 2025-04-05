@@ -33,7 +33,7 @@ These components provide various APIs that help developers with core operations,
 
   s.vendored_frameworks = "EdgeCore.xcframework"
 
-  s.dependency 'Alamofire', '~> 5.10.2'
+  s.dependency 'Alamofire', '~> 5.6.4'
   s.dependency 'SwiftyJSON', '~> 5.0.2'
   s.dependency 'JWTDecode', '~> 3.2.0'
   s.dependency 'AppAuth', '~> 1.7.6'
